@@ -1,0 +1,132 @@
+/*Dolphins Color Scheme*/
+/*NPR Color Scheme*/
+/*$dark: #353940;*/
+/*$dark-light: #3E92A3;*/
+/*$light-dark: #FF5335;*/
+/*$light: #DFE0D4;*/
+/*Sunset Color Scheme*/
+/*$dark: #C24242;*/
+/*$dark-light: #E08932;*/
+/*$light-dark: #E5C955;*/
+/*$light: #F2F5B1;*/
+body {
+  margin-top: 50px;
+  background: #497285; }
+
+p a {
+  font-family: "Georgia", serif;
+  font-size: 14px;
+  color: #2B4450; }
+
+p a:hover {
+  font-family: "Georgia", serif;
+  font-size: 14px;
+  color: #F78536;
+  text-decoration: none; }
+
+a.navbar {
+  font-family: "Carrois Gothic SC", sans-serif; }
+
+.navbar {
+  font-family: "Carrois Gothic SC", sans-serif; }
+
+.header {
+  background-color: #F78536;
+  color: #DFEBED;
+  width: 100%;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px; }
+
+.header-text {
+  font-family: "Carrois Gothic SC", sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  text-shadow: 3px 3px #2B4450; }
+
+.title-text {
+  font-family: "Carrois Gothic SC", sans-serif;
+  font-weight: bold; }
+
+.body {
+  margin-top: 15px;
+  padding-top: 15px;
+  background-color: #DFEBED;
+  color: #2B4450;
+  height: 100%;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  font-family: "Georgia", serif;
+  padding-bottom: 10px;
+  text-align: justify; }
+
+.fa-twitter {
+  font-size: large; }
+
+.foot-image1 {
+  width: 100%;
+  height: 150px; }
+
+.foot-image2 {
+  padding-top: 25px;
+  width: 100%; }
+
+/* NAVBAR */
+/* Courtesy http://work.smarchal.com/twbscolor/css/4972852b4450dfebedf785360 */
+.navbar-default {
+  background-color: #497285;
+  border-color: #2B4450; }
+
+.navbar-default .navbar-brand {
+  color: #DFEBED; }
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #F78536; }
+
+.navbar-default .navbar-text {
+  color: #DFEBED; }
+
+.navbar-default .navbar-nav > li > a {
+  color: #DFEBED; }
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #F78536; }
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  color: #F78536;
+  background-color: #2B4450; }
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+  color: #F78536;
+  background-color: #2B4450; }
+
+.navbar-default .navbar-toggle {
+  border-color: #2B4450; }
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #2B4450; }
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #DFEBED; }
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+  border-color: #DFEBED; }
+
+.navbar-default .navbar-link {
+  color: #DFEBED; }
+
+.navbar-default .navbar-link:hover {
+  color: #F78536; }
+
+@media (max-width: 767px) {
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: #DFEBED; }
+
+  .navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+    color: #F78536; }
+
+  .navbar-default .navbar-nav .open .dropdown-menu > .active > a, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus {
+    color: #F78536;
+    background-color: #2B4450; } }
+
+/*# sourceMappingURL=master.css.map */
